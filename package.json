@@ -23,6 +23,7 @@
   "dependencies": {
     "aws-cdk-lib": "2.43.1",
     "constructs": "^10.0.0",
-    "source-map-support": "^0.5.21"
+    "source-map-support": "^0.5.21",
+    "@aws-cdk/aws-appsync-alpha": "^2.43.1-alpha.0"
   }
 }
