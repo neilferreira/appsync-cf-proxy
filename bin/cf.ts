@@ -22,7 +22,7 @@ new CfStack(app, 'CloudFormationTestStack', {
 });
 
 
-new CfPerformanceStack(app, 'CloudFormationTestStack', {
+new CfPerformanceStack(app, 'CfPerformanceStack', {
   /* If you don't specify 'env', this stack will be environment-agnostic.
    * Account/Region-dependent features and context lookups will not work,
    * but a single synthesized template can be deployed anywhere. */
